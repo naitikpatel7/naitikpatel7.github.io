@@ -11,7 +11,7 @@
   <hr>
   <h3>Contact</h3>
   <p>Email: pv38580@gmail.com</p>
-  <p>Phone: +91 9876543210</p>
+  <p>Phone: +91 8009268426</p>
 </body>
 </html># naitikpatel7.github.io
 My personal website 
