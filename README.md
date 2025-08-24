@@ -10,7 +10,7 @@
   <p>This is my simple personal website made with GitHub Pages.</p>
   <hr>
   <h3>Contact</h3>
-  <p>Email: youremail@example.com</p>
+  <p>Email: pv38580@gmail.com</p>
   <p>Phone: +91 9876543210</p>
 </body>
 </html># naitikpatel7.github.io
