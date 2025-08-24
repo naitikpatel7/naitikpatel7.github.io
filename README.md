@@ -1,2 +1,17 @@
-# naitikpatel7.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Naitik Patel</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>Hello! My name is <b>Naitik Patel</b>.</p>
+  <p>This is my simple personal website made with GitHub Pages.</p>
+  <hr>
+  <h3>Contact</h3>
+  <p>Email: youremail@example.com</p>
+  <p>Phone: +91 9876543210</p>
+</body>
+</html># naitikpatel7.github.io
 My personal website 
